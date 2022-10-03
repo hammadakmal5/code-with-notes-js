@@ -31,7 +31,7 @@
 // Demo
 
 /**
- * var ---- variables created with the var keyword can be redeclare and value can be changed
+ * var ---- variables created with the var keyword can be redeclare(creating a variable with the same name again) and value can be changed
  */
 
 // Use lowerCamelCase technique for variable names 
