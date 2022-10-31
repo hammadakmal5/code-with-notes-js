@@ -6,7 +6,7 @@
 
 // Important Concepts in OOP:
 
-// class , objects, Encapsulation , Inheritance , Abstraction , polymorphism etc
+// class , objects, Encapsulation(wrapping properties and function inside the container i.e class) , Inheritance , Abstraction , polymorphism etc
 
 
 // What is class --- it's a blueprint to create objects
@@ -20,7 +20,6 @@ class Human {
         this.age = age;
         this.height = height;
     }
-
     eat(food) {
         console.log(`${this.name} can eat. My favorite food is ${food}`);
     }
